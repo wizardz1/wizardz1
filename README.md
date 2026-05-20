@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ipadkidd"><img src="https://img.shields.io/github/followers/ipadkidd?label=Follow&style=social" alt="GitHub"></a>
-  <a href="https://discord.com/users/1056648489402118194"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://github.com/ipadkidd"><img src="https://img.shields.io/github/followers/ipadkidd?label=Follow&style=for-the-badge" alt="GitHub"></a>
+  <a href="https://discord.com/users/1056648489402118194"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 ---
