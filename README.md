@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm ipadkidd 👋</h1>
+<h1 align="center">Hi, I'm Wizard 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ipadkidd"><img src="https://img.shields.io/github/followers/ipadkidd?label=Follow&style=for-the-badge" alt="GitHub"></a>
+  <a href="https://github.com/wizardz1"><img src="https://img.shields.io/github/followers/wizardz1?label=Follow&style=for-the-badge" alt="GitHub"></a>
   <a href="https://discord.com/users/1056648489402118194"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
