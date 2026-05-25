@@ -74,7 +74,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ipadkidd&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardz1&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
