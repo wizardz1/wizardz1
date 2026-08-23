@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="image" />
+  <img src="https://raw.githubusercontent.com/wizardz1/wizardz1/refs/heads/main/fnS3pZmNuKudQIowCiu.gif" alt="image" />
 </p>
 
 ---
